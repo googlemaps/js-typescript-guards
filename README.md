@@ -12,6 +12,8 @@
 
 This package provides [TypeScript guards](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates) for the Google Maps JavaScript API. 
 
+A type guard (or type predicate) is an expression that performs a runtime check that guarantees the type in some scope. Type guards are used to narrow the type of a variable or parameter.
+
 ## Documentation
 
 For the complete API check the [reference documentation](https://googlemaps.github.io/js-typescript-guards/index.html).
