@@ -1,6 +1,6 @@
 # Google Maps JavaScript API Loader
 
-[![npm](https://img.shields.io/npm/v/@googlemaps/js-typescript-guards)](https://www.npmjs.com/package/@googlemaps/typescript-guards)
+[![npm](https://img.shields.io/npm/v/@googlemaps/typescript-guards)](https://www.npmjs.com/package/@googlemaps/typescript-guards)
 ![Build](https://github.com/googlemaps/js-typescript-guards/workflows/Build/badge.svg)
 ![Release](https://github.com/googlemaps/js-typescript-guards/workflows/Release/badge.svg)
 [![codecov](https://codecov.io/gh/googlemaps/js-typescript-guards/branch/main/graph/badge.svg)](https://codecov.io/gh/googlemaps/js-typescript-guards)
