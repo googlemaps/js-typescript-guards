@@ -1,7 +1,7 @@
 # Google Maps TypeScript Guards
 
 [![npm](https://img.shields.io/npm/v/@googlemaps/typescript-guards)](https://www.npmjs.com/package/@googlemaps/typescript-guards)
-![Build](https://github.com/googlemaps/js-typescript-guards/workflows/Build/badge.svg)
+![Build](https://github.com/googlemaps/js-typescript-guards/workflows/Test/badge.svg)
 ![Release](https://github.com/googlemaps/js-typescript-guards/workflows/Release/badge.svg)
 [![codecov](https://codecov.io/gh/googlemaps/js-typescript-guards/branch/main/graph/badge.svg)](https://codecov.io/gh/googlemaps/js-typescript-guards)
 ![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/js-typescript-guards?color=green)
