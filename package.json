@@ -1,6 +1,6 @@
 {
   "name": "@googlemaps/typescript-guards",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "TypeScript guards for Google Maps Platform JavaScript.",
   "keywords": [
     "google",
