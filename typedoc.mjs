@@ -14,17 +14,9 @@
  * limitations under the License.
  */
 
-module.exports = {
-  transform: {
-    "^.+\\.tsx?$": "ts-jest",
-  },
-  collectCoverage: true,
-  coverageThreshold: {
-    global: {
-      branches: 100,
-      functions: 100,
-      lines: 100,
-      statements: 100,
-    },
-  },
+export default {
+  out: "docs",
+  exclude: ["**/node_modules/**", "**/*.spec.ts", "**/*.test.ts"],
+  excludePrivate: true,
+  excludeExternals: true,
 };
