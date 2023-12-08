@@ -8,7 +8,7 @@
     "esModuleInterop": true,
     "lib": ["DOM", "ESNext"],
     "target": "ES6",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
   },
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test.ts"]
