@@ -15,9 +15,8 @@
  */
 
 export default {
-  transform: {
-    "^.+\\.tsx?$": "ts-jest",
-  },
+  preset: "ts-jest/presets/js-with-ts",
+  testEnvironment: "jsdom",
   collectCoverage: true,
   coverageThreshold: {
     global: {
